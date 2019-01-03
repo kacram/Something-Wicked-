@@ -2,4 +2,4 @@
 
 
 hspd = (KeyRight - KeyLeft)*spd;
-vspd = (KeyUp - KeyDown)*spd;
+vspd = (KeyDown - KeyUp)*spd;
