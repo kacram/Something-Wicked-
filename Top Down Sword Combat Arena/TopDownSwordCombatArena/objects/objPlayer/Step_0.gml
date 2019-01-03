@@ -23,7 +23,7 @@ if (ControlMode = "GP")
 {
 	script_execute(scrController)	
 }
-else if (ControlMode = "GP")
+else if (ControlMode = "KB")
 {
 	script_execute(scrKeyboard)	
 }
