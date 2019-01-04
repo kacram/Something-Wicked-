@@ -1,8 +1,10 @@
 /// @description Movement
 
 //set controller inputs and register presses
-HControl = gamepad_axis_value(0, gp_axislh);
-VControl = gamepad_axis_value(0, gp_axislv);
+HStickL = gamepad_axis_value(0, gp_axislh);
+VStickL = gamepad_axis_value(0, gp_axislv);
+HStickR = gamepad_axis_value(0, gp_axisrh);
+VStickR = gamepad_axis_value(0, gp_axisrv);
 KeyUp = keyboard_check(ord("W"));
 KeyDown = keyboard_check(ord("S"));
 KeyLeft = keyboard_check(ord("A"));

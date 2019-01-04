@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "5dfabb8a-e2cf-459e-86d3-67998fbac081",
-            "Value": {
-                "id": "d1cd6f1e-cbd8-452d-b1db-7f1ec3c2b374",
-                "resourcePath": "objects\\obj_cursor\\obj_cursor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "64dccaac-c6d1-46e6-b7aa-b58962207c66",
             "Value": {
                 "id": "a02c5a11-5e5c-4a57-8e9f-7c36dde422b1",
